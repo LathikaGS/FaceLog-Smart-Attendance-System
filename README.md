@@ -37,7 +37,7 @@ FaceCloud combines the power of the dlib 64 model and OpenCV to provide precise 
 
 3. Configure Firebase credentials:
    - Create a Firebase project and obtain the necessary credentials.
-   - Update the Firebase configuration in `config.py`.
+   - Update the Firebase configuration in the `main.py`
 
 4. Run the application:
    ```bash
