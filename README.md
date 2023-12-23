@@ -52,11 +52,8 @@ FaceCloud combines the power of the dlib 64 model and OpenCV to provide precise 
 
 ## Contributing
 
-Feel free to contribute to the development of FaceCloud. Please check the [contribution guidelines](CONTRIBUTING.md) for more information.
+Feel free to contribute to the development of FaceCloud.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
