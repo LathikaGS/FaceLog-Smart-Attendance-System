@@ -1,4 +1,4 @@
-# FaceCloud: Cloud-Enabled Facial Recognition Attendance System
+# FaceLog: Smart Attendance System
 
 Welcome to FaceCloud, a sophisticated attendance system that leverages facial recognition technology for accurate identification and integrates seamlessly with the cloud for efficient attendance management.
 
@@ -27,7 +27,7 @@ FaceCloud combines the power of the dlib 64 model and OpenCV to provide precise 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LathikaGS/FaceLog.git
+   git clone https://github.com/LathikaGS/FaceLog-Smart-Attendance-System.git
    ```
 
 2. Install dependencies:
