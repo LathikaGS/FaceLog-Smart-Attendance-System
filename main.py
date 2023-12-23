@@ -109,7 +109,7 @@
     
     cred = credentials.Certificate("serviceAccountKey.json")
     firebase_admin.initialize_app(cred,{
-        'databaseURL':""
+        'databaseURL':"" # UPDATE DATABASE URL HERE!
     })
     ref = db.reference('Students')
     data = {
