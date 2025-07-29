@@ -1,6 +1,6 @@
 # FaceLog: Smart Attendance System
 
-Welcome to FaceCloud, a sophisticated attendance system that leverages facial recognition technology for accurate identification and integrates seamlessly with the cloud for efficient attendance management.
+Welcome to FaceLog, a sophisticated attendance system that leverages facial recognition technology for accurate identification and integrates seamlessly with the cloud for efficient attendance management.
 
 ## Overview
 
